@@ -1,9 +1,9 @@
 {
     "editor.minimap.enabled": false,
+    "editor.rulers": [80, 120],
     "eslint.options": {
         "configFile": ""
     },
-    "editor.rulers": [80, 120],
     "explorer.autoReveal": false,
     "files.autoSave": "onFocusChange",
     "files.exclude":{
