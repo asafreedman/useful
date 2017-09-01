@@ -4,6 +4,7 @@
         "configFile": ""
     },
     "editor.rulers": [80, 120],
+    "explorer.autoReveal": false,
     "files.autoSave": "onFocusChange",
     "files.exclude":{
         "**/.git": true,
